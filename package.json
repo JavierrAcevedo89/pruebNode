@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Mi primera app en node",
+  "main": "holaMundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavierrAcevedo89/pruebNode.git"
+  },
+  "author": "Francisco Javier Acevedo Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavierrAcevedo89/pruebNode/issues"
+  },
+  "homepage": "https://github.com/JavierrAcevedo89/pruebNode#readme"
+}
