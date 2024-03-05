@@ -1,5 +1,5 @@
 {
-  "name": "nodejs",
+  "name": "bloqueante.js",
   "version": "1.0.0",
   "description": "Mi primera app en node",
   "main": "holaMundo.js",
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/JavierrAcevedo89/pruebNode/issues"
   },
-  "homepage": "https://github.com/JavierrAcevedo89/pruebNode#readme"
+  "homepage": "https://github.com/JavierrAcevedo89/pruebNode#readme",
+  "keywords": [
+    "prueba",
+    "del",
+    "modo",
+    "bloqueante",
+    "en",
+    "nodejs"
+  ]
 }
